@@ -11,13 +11,13 @@ The objective is to identify factors influencing employee turnover and provide a
 ## Dashboard Preview
 
 ### Overview
-![Overview](Screenshots/dashboard_top.png)
+![Overview](ScreenShots/dashboard_top.png)
 
 ### Analysis
-![Analysis](Screenshots/dashboard_middle.png)
+![Analysis](ScreenShots/dashboard_middle.png)
 
 ### Insights
-![Insights](Screenshots/dashboard_bottom.png)
+![Insights](ScreenShots/dashboard_bottom.png)
 
 ### KPI Summary
 
@@ -107,7 +107,7 @@ HR-Analytics-Dashboard/
 ├── Dashboard/
 │   └── HR_Analytics_Dashboard.ods
 │
-├── Screenshots/
+├── ScreenShots/
 │   ├── dashboard_top.png
 │   ├── dashboard_middle.png
 │   └── dashboard_bottom.png
