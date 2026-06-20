@@ -11,13 +11,13 @@ The objective is to identify factors influencing employee turnover and provide a
 ## Dashboard Preview
 
 ### Overview
-![Overview](ScreenShots/dashboard_top.png)
+![Overview](ScreenShots/Dashboard_top.png)
 
 ### Analysis
-![Analysis](ScreenShots/dashboard_middle.png)
+![Analysis](ScreenShots/Dashboard_middle.png)
 
 ### Insights
-![Insights](ScreenShots/dashboard_bottom.png)
+![Insights](ScreenShots/Dashboard_bottom.png)
 
 ### KPI Summary
 
